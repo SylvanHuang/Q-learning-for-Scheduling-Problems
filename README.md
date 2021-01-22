@@ -10,5 +10,5 @@ The repository contains:
 
 Reference:
 
-[Yunior César Fonseca-Reyna(2017): Q-Learning algorithm performance for m-machine, n-jobs flow shop scheduling problems to minimize makespan] (https://www.researchgate.net/publication/317371143_Q-learning_algorithm_performance_for_m-machine_n-jobs_flow_shop_scheduling_problems_to_minimize_makespan)
+[Yunior CÃ©sar Fonseca-Reyna(2017): Q-Learning algorithm performance for m-machine, n-jobs flow shop scheduling problems to minimize makespan](https://www.researchgate.net/publication/317371143_Q-learning_algorithm_performance_for_m-machine_n-jobs_flow_shop_scheduling_problems_to_minimize_makespan)
 
