@@ -14,7 +14,7 @@ The repository contains:
 
 - numpy==1.20.1
 - pandas==1.2.3
-- openpyxl=2.6.0
+- openpyxl==2.6.0
 
 ## Usage
 
@@ -32,7 +32,7 @@ python JSSP.py # For JSSP
 ```bash
 sudo docker build -t qlearning .
 sudo docker run -e PROBLEM=JSSP.py qlearning #For P-FSSP
-sudo docker run -e PROBLEM=Permutation_FSSP.py qlearning # or JSSP
+sudo docker run -e PROBLEM=Permutation_FSSP.py qlearning # For JSSP
 ```
 
 ## Reference
